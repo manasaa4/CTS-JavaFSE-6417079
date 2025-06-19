@@ -1,7 +1,5 @@
 # CTS-Digital-Nurture-JavaFSE
 
-# CTS Digital Nurture 4.0 – Java Full Stack Engineer (GenC)
-
 Welcome to my personal learning log for the **Digital Nurture 4.0 - GenC Deep Skilling Program** powered by Cognizant Technology Solutions (CTS).
 
 This repository captures my weekly progress, daily learning updates, and notes across the **8-week Java Full Stack Engineering** track.
