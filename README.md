@@ -4,7 +4,7 @@ Welcome to my personal learning log for the **Digital Nurture 4.0 - GenC Deep Sk
 
 This repository captures my weekly progress, daily learning updates, and notes across the **8-week Java Full Stack Engineering** track.
 
----
+
 
 ## 🚀 Program Overview
 
@@ -13,13 +13,6 @@ This repository captures my weekly progress, daily learning updates, and notes a
 - **Mode:** Self-paced
   
 
----
 
-## 📂 Folder Structure
 
-Each folder represents a **week** of the program and includes:
-- 📝 Daily concepts covered
-- 💻 Hands-on practice summaries
-- 📸 Screenshots/snippets of code or assessments (if any)
-- 🧠 Reflections or doubts resolved
 
